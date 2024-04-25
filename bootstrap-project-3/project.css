@@ -1,0 +1,30 @@
+*{
+  margin: 0px;  
+}
+.win{
+    font-size: small;
+}
+
+section.sec1{
+  background-image: url(stage.webp);
+  min-height: 100vh;
+  background-position: center center;
+  background-size: cover;
+  position: relative;
+}
+
+.opacity{
+  background-color: black;
+  opacity: 0.2;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+
+}
+.inbox1{
+  color: white;
+  width: 300px;
+  padding-top: 50px;
+}
